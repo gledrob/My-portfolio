@@ -47,7 +47,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 }
 
-export const customSortFn = (a: any, b: any) => {
+export function customSortFn(a: any, b: any) {
   const order = [
     "About ISRF",
     "International Student Relocation Framework v1.1",
