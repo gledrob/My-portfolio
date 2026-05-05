@@ -137,21 +137,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({
-      sortFn: (a, b) => {
-        const order = explorerOrder
-        const aIndex = order.findIndex((item) => a.displayName.startsWith(item))
-        const bIndex = order.findIndex((item) => b.displayName.startsWith(item))
-        if (aIndex !== -1 && bIndex !== -1) return aIndex - bIndex
-        if (aIndex !== -1) return -1
-        if (bIndex !== -1) return 1
-        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-          return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
-        }
-        if (a.isFolder && !b.isFolder) return -1
-        return 1
-      },
-    }),
+    Component.Explorer(),
   ],
   right: [
     Component.Graph(),
@@ -175,21 +161,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({
-      sortFn: (a, b) => {
-        const order = explorerOrder
-        const aIndex = order.findIndex((item) => a.displayName.startsWith(item))
-        const bIndex = order.findIndex((item) => b.displayName.startsWith(item))
-        if (aIndex !== -1 && bIndex !== -1) return aIndex - bIndex
-        if (aIndex !== -1) return -1
-        if (bIndex !== -1) return 1
-        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-          return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
-        }
-        if (a.isFolder && !b.isFolder) return -1
-        return 1
-      },
-    }),
+    Component.Explorer(),
   ],
   right: [],
 }
