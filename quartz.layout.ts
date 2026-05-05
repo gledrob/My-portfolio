@@ -14,7 +14,33 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
-export const customSortFn = (a: any, b: any) => {
+
+
+// components for pages that display a single page (e.g. a single note)
+export const defaultContentPageLayout: PageLayout = {
+  beforeBody: [
+    Component.ConditionalRender({
+      component: Component.Breadcrumbs(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
+    Component.ArticleTitle(),
+    Component.ContentMeta(),
+    Component.TagList(),
+  ],
+  left: [
+    Component.PageTitle(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Flex({
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+        { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
+      ],
+    }),
+    Component.Explorer({ sortFn: (a: any, b: any) => {
   const order = [
     "About ISRF",
     "International Student Relocation Framework v1.1",
@@ -123,33 +149,7 @@ export const customSortFn = (a: any, b: any) => {
   }
   if (a.file && !b.file) return 1
   return -1
-}
-
-// components for pages that display a single page (e.g. a single note)
-export const defaultContentPageLayout: PageLayout = {
-  beforeBody: [
-    Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index",
-    }),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-    Component.TagList(),
-  ],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        {
-          Component: Component.Search(),
-          grow: true,
-        },
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
-      ],
-    }),
-    Component.Explorer({ sortFn: customSortFn }),
+} }),
   ],
   right: [
     Component.Graph(),
@@ -175,7 +175,116 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer({ sortFn: customSortFn }),
+    Component.Explorer({ sortFn: (a: any, b: any) => {
+  const order = [
+    "About ISRF",
+    "International Student Relocation Framework v1.1",
+    "1 - Foundation (6–12 Months Before)",
+    "Relocation strategy",
+    "Define Your Goal",
+    "Destination Research",
+    "Specifics of your moving process",
+    "Prepare Core Documents",
+    "Apply as early as possible",
+    "Track Applications",
+    "Rejection",
+    "Finances & Budget",
+    "Source of Funds and Budget",
+    "Apply for funding opportunities",
+    "Paying Upfront Costs",
+    "Prepare Proof of Funds",
+    "Accommodation Strategy",
+    "Temporary and Long-term Accommodation",
+    "Apply for accommodation early",
+    "Compliance",
+    "Prepare Supporting Documents",
+    "Legalise documents",
+    "Copies and Backups",
+    "Exit Strategy",
+    "Audit current contracts and commitments",
+    "Terminate Liabilities",
+    "Shipping vs. Selling Belongings",
+    "Centre of Vital Interests",
+    "Tax Residency",
+    "2 - Transition (2–3 Months Before)",
+    "Optional Accommodation",
+    "(Optional) Temporary accommodation",
+    "Accommodation laws and regulations",
+    "Academic Preparation",
+    "Institution-related Bureaucracy",
+    "Preliminary study plan",
+    "University Opportunities",
+    "Social & Cultural Connection",
+    "Find First-contact Points",
+    "Networking leads",
+    "Language basics",
+    "Cultural Differences OR Cultural Sensitivity Training",
+    "Health Management",
+    "Health Insurance in the country of destination",
+    "Health Check-Ups",
+    "Health & Medical Continuity Preparations",
+    "Digital & Communication Setup",
+    "Digital Ecosystem",
+    "Prepare Means of Communication",
+    "Before Departure",
+    "Notify Important Institutions",
+    "(Optional) Immediate Steps & Tasks after Arrival",
+    "3 - Arrival (Week 1–4)",
+    "Immediate Survival Tasks",
+    "Immediate Steps & Tasks",
+    "Address Registration",
+    "(Optional) Local Bank Account",
+    "(Optional) Local Phone Number",
+    "Essentials Run",
+    "Transportation & Mobility",
+    "Sourcing Necessities",
+    "Legal & Bureaucracy",
+    "Personal Information Actualisation",
+    "Official means of Authentication and Credentials",
+    "Legalise your Residency",
+    "(Optional) Plan for Residency Renewal",
+    "First Contact",
+    "Meet First-Contact Points",
+    "National Community",
+    "Emergency Protocol & Services",
+    "4 - Integration (Month 2+)",
+    "Social Expansion & Society Integration",
+    "International community",
+    "Local community",
+    "Transition from (Inter)national to Local communities",
+    "Grow your Personal Network",
+    "Professional Alignment",
+    "Local Work Culture",
+    "Adapt your Professionalism to Local Norms",
+    "Grow Professional Network",
+    "Network & Affairs Maintenance",
+    "Switch or Detach from Networks",
+    "Previous Centres of Vital Interest",
+    "Mental Health & Sustainability",
+    "Navigating the Shock",
+    "Receive Help & Support",
+    "Tax & Legal Duties",
+    "Legal Status",
+    "Tax Obligations",
+    "(Optional) Funds outside Centre of Vital Interest",
+    "(Optional) Residency renewal",
+    "Next Goal",
+    "Life Anchors",
+    "Changing your Goal",
+    "(Optional) Steps to the new goal",
+    "(Optional) Reverse Culture Shock Awareness",
+  ]
+  let aIndex = order.findIndex((item) => a.name.startsWith(item) || a.displayName.startsWith(item))
+  let bIndex = order.findIndex((item) => b.name.startsWith(item) || b.displayName.startsWith(item))
+  if (aIndex !== -1 && bIndex !== -1) return aIndex - bIndex
+  if (aIndex !== -1) return -1
+  if (bIndex !== -1) return 1
+  if ((!a.file && !b.file) || (a.file && b.file)) {
+    return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+  }
+  if (a.file && !b.file) return 1
+  return -1
+} }),
   ],
   right: [],
 }
