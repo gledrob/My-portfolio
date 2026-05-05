@@ -3,7 +3,7 @@ tags:
   - guide/topic
   - status/draft
   - ISG
-phase: "[[1 - Foundation (6–12 Months Before)]]"
+phase: "[[1 - Foundation (6-12 Months Before)]]"
 urgency: High
 ---
 # Topic Title

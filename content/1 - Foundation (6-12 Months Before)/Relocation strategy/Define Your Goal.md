@@ -3,7 +3,7 @@ tags:
   - guide/topic
   - status/draft
   - ISG
-phase: "[[1 - Foundation (6–12 Months Before)]]"
+phase: "[[1 - Foundation (6-12 Months Before)]]"
 urgency: Medium
 ---
 # Topic Title
@@ -38,7 +38,7 @@ _The step-by-step execution plan._
 3. **Step Three:** Review the statement regularly to ensure that it remains aligned with your vision for your academic journey and to motivate yourself throughout the process.
    
 > [!TIP] Pro Tip
-> Reflect on what matters most to you in this experience – is it career advancement, personal growth, or exposure to a new culture? Aligning your goals with these values can help keep you motivated during challenges.
+> Reflect on what matters most to you in this experience - is it career advancement, personal growth, or exposure to a new culture? Aligning your goals with these values can help keep you motivated during challenges.
 
 ## 5. Pitfalls
 

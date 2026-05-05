@@ -1,7 +1,7 @@
 This 4-phase framework transforms a one-time move into a repeatable process.
 
 ---
-## [[1 - Foundation (6–12 Months Before)]]
+## [[1 - Foundation (6-12 Months Before)]]
 
 *Focus: Establishing legal eligibility, financial readiness, and "cleaning the slate" in your current home.*
 
@@ -39,7 +39,7 @@ This 4-phase framework transforms a one-time move into a repeatable process.
 - [[Tax Residency]]
 
 ---
-## [[2 - Transition (2–3 Months Before)]]
+## [[2 - Transition (2-3 Months Before)]]
 
 *Focus: Securing logistics, academic planning, and building the "initial support shell" before landing.*
 
@@ -71,7 +71,7 @@ This 4-phase framework transforms a one-time move into a repeatable process.
 - [[(Optional) Immediate Steps & Tasks after Arrival]]
    
 ---
-## [[3 - Arrival (Week 1–4)]]  
+## [[3 - Arrival (Week 1-4)]]  
 
 *Focus: Rapid execution of survival tasks and securing legal residency.*
 

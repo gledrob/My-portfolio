@@ -3,7 +3,7 @@ tags:
   - guide/topic
   - status/draft
   - ISG
-phase: "[[2 - Transition (2–3 Months Before)]]"
+phase: "[[2 - Transition (2-3 Months Before)]]"
 urgency: Medium
 ---
 # Topic Title

@@ -2,11 +2,11 @@
 tags:
   - guide/topic
   - status/draft
-phase: "[[1 - Foundation (6-12 Months Before)]]"
+phase: "[[3 - Arrival (Week 1-4)]]"
 urgency: "High / Medium / Low"
 ---
 
-# Important Contacts and Power of Attorney
+# Research Banking Options
 
 ## 1. Overview
 
