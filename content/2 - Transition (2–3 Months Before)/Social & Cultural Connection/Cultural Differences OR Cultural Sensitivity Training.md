@@ -9,13 +9,11 @@ urgency: Medium
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 2 months before departure
 - **Goal:** Research and understand how is your culture different relative to the culture in the country of destination. Acknowledge the differences and learn how to deal with them. (Erin Meyer - The Culture Map)
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** (What do you gain by doing this right?)
 - **The Risk:** (What is the penalty/consequence of failing or delaying? e.g., Fines, deportation, homelessness.)

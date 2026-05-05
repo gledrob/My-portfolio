@@ -9,13 +9,11 @@ urgency: High
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 10-12 months before departure
 - **Goal:** Determine how you will financially secure your long-term stay in the foreign country. Calculate the amounts and decide how you will prepare the funds. ==How will you support yourself during your time in another country?==
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** (What do you gain by doing this right?) Financial security is essential for a successful relocation, as it allows you to focus on other aspects of your move without worrying about running out of funds.
 - **The Risk:** (What is the penalty/consequence of failing or delaying? e.g., Fines, deportation, homelessness.) Failing to secure financial stability could lead to complications in the relocation process, such as visa issues, housing problems, and difficulty adjusting to a new environment.

@@ -9,13 +9,11 @@ urgency: Low
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 3+ months after arrival
 - **Goal:** Align your professional image and career essentials with the local employment market and working culture. (Formatting, language requirements)
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** (What do you gain by doing this right?)
 - **The Risk:** (What is the penalty/consequence of failing or delaying? e.g., Fines, deportation, homelessness.)

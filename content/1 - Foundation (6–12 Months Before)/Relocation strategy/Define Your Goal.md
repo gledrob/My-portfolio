@@ -9,12 +9,10 @@ urgency: Medium
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 12 months before departure
 - **Goal:** Clarify your intentions - what do you aim to achieve by committing to the plan of moving to another country for studies?
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** It justifies why you have chosen this particular study track and country and provides foundation for your choice, helping you stay focused and motivated throughout the relocation process.
 - **The Risk:** Proceeding with a lack of goal/direction might result in misalignment of tasks, potential loss of time and money, overall failure of the chosen initiative. 

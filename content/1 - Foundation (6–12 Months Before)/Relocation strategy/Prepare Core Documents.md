@@ -9,13 +9,11 @@ urgency: High
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:**  6-10 months before departure
 - **Goal:** Research and prepare in advance the core documents required for the relocation process procedures (f.e. related to finances and health insurance).
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** You will have a set of documents needed for relocation beforehand.
 - **The Risk:** Rejections or delays due to missing documents, incomplete applications.

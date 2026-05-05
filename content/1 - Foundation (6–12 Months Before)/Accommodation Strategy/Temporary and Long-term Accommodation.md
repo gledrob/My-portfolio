@@ -9,13 +9,11 @@ urgency: Low
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 6-8 months before departure
 - **Goal:** Decide what kind of accommodation you need for your type of stay in the foreign country and whether you need a temporary accommodation upon arrival.
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** (What do you gain by doing this right?)
     1. Finding suitable accommodation in advance can help alleviate stress and provide a sense of security during relocation.

@@ -9,13 +9,11 @@ urgency: High
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 6-10 months before departure.
 - **Goal:** Prepare documentation proving that you have sufficient financial resources to cover your stay in the foreign country (e.g. bank statements, blocked accounts, or scholarship letters).
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** (What do you gain by doing this right?)
     1. Meeting visa requirements for demonstrating financial independence

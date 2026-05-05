@@ -9,13 +9,11 @@ urgency: Low
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** ASAP
 - **Goal:** Find cost-effective stores and marketplaces and buy household and living essentials.
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** (What do you gain by doing this right?)
 - **The Risk:** (What is the penalty/consequence of failing or delaying? e.g., Fines, deportation, homelessness.)

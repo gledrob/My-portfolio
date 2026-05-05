@@ -9,13 +9,11 @@ urgency: Low
 # What do I do if I get rejected?
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 6-9 months before departure
 - **Goal:** Consistently document the relocation process procedures for future reference (e.g. visa applications, forms, application requirements and your answers to them).
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** Organizes the application process, making it easier for future reference.
 - **The Risk:** (What is the penalty/consequence of failing or delaying?) Failing to track applications may lead to missed deadlines, increased stress, and potential complications during the relocation process.

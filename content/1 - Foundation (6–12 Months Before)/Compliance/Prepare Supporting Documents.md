@@ -9,13 +9,11 @@ urgency: Medium
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 6-8 months before departure.
 - **Goal:** Prepare additional supporting documents that could be useful during your stay abroad. (Birth certificates, transcripts, diplomas))
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - - **he Benefit:** (What do you gain by doing this right?)
     1. Having all necessary documents in order will help ensure a smooth transition to life abroad.

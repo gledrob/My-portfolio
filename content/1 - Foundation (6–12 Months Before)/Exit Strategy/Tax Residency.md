@@ -9,13 +9,11 @@ urgency: Medium
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 6 months before departure
 - **Goal:** Determine your future tax residency status in the new jurisdiction and understand the related responsibilities you will have while living abroad in respect to past country of residency.
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** (What do you gain by doing this right?)
     1. Knowing your future tax residency status will help you understand the taxes you are obligated to pay in your destination country.

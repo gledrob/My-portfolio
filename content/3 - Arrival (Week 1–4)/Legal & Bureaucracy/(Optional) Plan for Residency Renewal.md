@@ -10,13 +10,11 @@ urgency: Low
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 1+ months after arrival
 - **Goal:** Understand whether you are required to continuously renew your residence. Determine the terms, conditions, deadlines and outline necessary steps. (Residence permit application, Notification of move, reminders for expiration dates. Understand what, where and when do you need to do it)
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** (What do you gain by doing this right?)
 - **The Risk:** (What is the penalty/consequence of failing or delaying? e.g., Fines, deportation, homelessness.)

@@ -9,13 +9,11 @@ urgency: Low
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 3+ months after arrival
 - **Goal:**  Grow your newly established personal network, building long-term relationships with locals, long-term residents and committed immigrants through chosen integration routes. (Hobbies, sports, local activities)
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** (What do you gain by doing this right?)
 - **The Risk:** (What is the penalty/consequence of failing or delaying? e.g., Fines, deportation, homelessness.)

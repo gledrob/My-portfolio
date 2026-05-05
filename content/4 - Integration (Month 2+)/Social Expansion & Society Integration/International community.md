@@ -9,13 +9,11 @@ urgency: Medium
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 1-2 months after arrival
 - **Goal:** Find and engage with international-friendly communities to source expat-specific perspective on local environment and lifestyle. (Diverse, multi-national groups).
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** (What do you gain by doing this right?)
 - **The Risk:** (What is the penalty/consequence of failing or delaying? e.g., Fines, deportation, homelessness.)

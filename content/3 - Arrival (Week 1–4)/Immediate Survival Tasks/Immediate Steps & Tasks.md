@@ -9,13 +9,11 @@ urgency: High
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 1 week after arrival
 - **Goal:** Compete the urgent tasks that you have identified and prepared in advance to secure your survival during the first days. (Move-in, utility setup)
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** (What do you gain by doing this right?)
 - **The Risk:** (What is the penalty/consequence of failing or delaying? e.g., Fines, deportation, homelessness.)

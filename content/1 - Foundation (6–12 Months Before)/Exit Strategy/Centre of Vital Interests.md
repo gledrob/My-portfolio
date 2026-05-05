@@ -9,7 +9,6 @@ urgency: Medium
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 6 months before departure
 - **Goal:** Determine your main area of vital interest to be able to navigate tax, legal and immigration issues in the future.

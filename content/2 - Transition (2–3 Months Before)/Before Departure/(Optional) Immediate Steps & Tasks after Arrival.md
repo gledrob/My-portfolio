@@ -10,13 +10,11 @@ urgency: High
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 1-2 months before departure
 - **Goal:** Determine the essential tasks to be completed upon arrival, according to the specifics of your relocation process, and arrange them in the list of priority.
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** (What do you gain by doing this right?)
 - **The Risk:** (What is the penalty/consequence of failing or delaying? e.g., Fines, deportation, homelessness.)

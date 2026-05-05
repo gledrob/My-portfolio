@@ -9,13 +9,11 @@ urgency: High
  # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 1+ weeks after arrival
 - **Goal:** Obtain official means of authentication and credentials to ensure that you are visible and can interact with authorities on the sufficient administrative level as required for the general resident/immigrant. (For jobs and banking, tax)
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** (What do you gain by doing this right?)
 - **The Risk:** (What is the penalty/consequence of failing or delaying? e.g., Fines, deportation, homelessness.)

@@ -9,13 +9,11 @@ urgency: Medium
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 4+ months after arrival
 - **Goal:** Abandon slow and unhelpful communities/networks and find more suitable options that will facilitate your personal and professional growth. (Avoiding The Expat Bubble)
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** (What do you gain by doing this right?)
 - **The Risk:** (What is the penalty/consequence of failing or delaying? e.g., Fines, deportation, homelessness.)

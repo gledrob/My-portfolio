@@ -8,7 +8,6 @@ urgency: High
 # Topic Title
 
 ## 1. Overview (_What is this?_)
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** In perpetuity (2+ months after arrival)
 - **Goal:** Help yourself to survive immigration by keeping contact with significant others and reaching for environments of interest, receiving their support and influence.

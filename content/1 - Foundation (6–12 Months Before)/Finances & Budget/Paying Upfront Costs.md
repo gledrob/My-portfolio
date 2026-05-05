@@ -9,13 +9,11 @@ urgency: Medium
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 6 months before departure.
 - **Goal:** Save a lump sum of liquid funds and cash to cover upfront and immediate expenses (e.g. (Security deposits, first month's rent, visa fees).
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** Having a buffer for upfront costs helps ensure a smooth start in the new country by avoiding financial stress upon arrival.
 - **The Risk:** (What is the penalty/consequence of failing or delaying? e.g., Fines, deportation, homelessness.) Insufficient funds could lead to difficulties in securing housing, visas, and other essential services, potentially causing delays and complications during the relocation process.

@@ -9,13 +9,11 @@ urgency: High
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 9 months before departure
 - **Goal:** Identify the terms, conditions, timelines, as well as required steps of your personal relocation process (e.g. visa).
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** You will know the required tasks, their nature and order of execution. You will be able to execute them according to your schedule and personal situation. 
 - **The Risk:** Rejections or delays due to missed or wrong steps. Possible double work. 

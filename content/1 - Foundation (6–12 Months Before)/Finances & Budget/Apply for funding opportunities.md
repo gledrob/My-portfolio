@@ -9,13 +9,11 @@ urgency: High
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** ASAP (10-12 months before departure)
 - **Goal:** Apply for external funding opportunities to get the chance of covering cost of living/tuition without spending your own money.
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** (What do you gain by doing this right?)
     1. Reducing the financial burden of relocation

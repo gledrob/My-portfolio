@@ -9,7 +9,6 @@ urgency: Medium
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 6-8 months before departure
 - **Goal:** Determine what rights and obligations does general tenant/homeowner has in the country of destination for your specific type of accommodation. 

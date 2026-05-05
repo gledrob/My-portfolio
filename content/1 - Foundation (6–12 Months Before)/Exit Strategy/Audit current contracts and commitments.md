@@ -9,13 +9,11 @@ urgency: Medium
 # Topic Title
 
 ## 1. Overview
-*Defines what this task is and when it needs to happen.*
 
 - **Timeline:** 6-9 months before departure.
 - **Goal:** Review your existing contracts and commitments in all areas of life and identify any that could pose as potential liabilities during your stay abroad. (Gym memberships, phone plans, internet)
 
 ## 2. Importance 
-*Why this matters and the risk of ignoring it.*
 
 - **The Benefit:** (What do you gain by doing this right?)
     1. A clear understanding of your current financial obligations will help you plan for any necessary payments or cancelations before departing.
