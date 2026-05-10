@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - guide/topic
   - status/draft
@@ -23,7 +23,7 @@ urgency: Low
 
 - **Documents:** None
 - **Costs:** None
-- **Dependencies:** (What specific task must be completed _before_ this one?) Completing [Prepare Core Documents](obsidian://open?file=Portfolio%20website%2FISG%20content%2FPrepare%20Core%20Documents.md) as prerequisite ensures the availability of required documents for application purposes.
+- **Dependencies:** (What specific task must be completed _before_ this one?) Completing [[Prepare Core Documents]] as prerequisite ensures the availability of required documents for application purposes.
 
 ## 4. Instructions 
 *The step-by-step execution plan.*

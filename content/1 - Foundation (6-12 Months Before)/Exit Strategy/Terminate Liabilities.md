@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - guide/topic
   - status/draft
@@ -11,7 +11,7 @@ urgency: Medium
 ## 1. Overview
 
 - **Timeline:** 6-9 months before departure)
-- **Goal:** Terminate existing contracts and commitments that were identified as potential liabilities for your stay abroad, potential liabilities for your stay abroad, based on the results of [Audit current contracts and commitments](obsidian://open?file=Portfolio%20website%2FISG%20content%2FAudit%20current%20contracts%20and%20commitments.md)
+- **Goal:** Terminate existing contracts and commitments that were identified as potential liabilities for your stay abroad, potential liabilities for your stay abroad, based on the results of [[Audit current contracts and commitments]]
 ## 2. Importance 
 
 - **The Benefit:** (What do you gain by doing this right?)
@@ -25,7 +25,7 @@ urgency: Medium
 *What you need to have ready before starting.*
 
 - **Documents:**
-    - None (Assume that all necessary documents from [Audit current contracts and commitments](obsidian://open?file=Portfolio%20website%2FISG%20content%2FAudit%20current%20contracts%20and%20commitments.md) are already prepared.)
+    - None (Assume that all necessary documents from [[Audit current contracts and commitments]] are already prepared.)
 - **Costs:**
     1. Exit costs for cancelling services or contracts
 - **Dependencies:** 
@@ -34,7 +34,7 @@ urgency: Medium
 ## 4. Instructions 
 *The step-by-step execution plan.*
 
-1. **Step One:** Review the list of identified liabilities from [Audit current contracts and commitments](obsidian://open?file=Portfolio%20website%2FISG%20content%2FAudit%20current%20contracts%20and%20commitments.md).
+1. **Step One:** Review the list of identified liabilities from [[Audit current contracts and commitments]].
 2. **Step Two:** Contact each service provider to initiate cancellation or termination of the relevant contract or commitment, following the guidelines provided in the original contract.
 3. **Step Three:** Monitor your accounts for any final charges or billing adjustments, and settle all outstanding balances before departure.
     1. (Optional) If necessary, arrange for a final bill or payment plan if applicable.

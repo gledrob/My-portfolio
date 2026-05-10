@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - guide/topic
   - status/draft
@@ -28,12 +28,12 @@ _Why this matters and the risk of ignoring it._
 _What you need to have ready before starting._
 
 - **Documents:**
-    - None (Assume that all necessary documents from [Audit current contracts and commitments](obsidian://open?file=Portfolio%20website%2FISG%20content%2FAudit%20current%20contracts%20and%20commitments.md) and [Terminate Liabilities](obsidian://open?file=Portfolio%20website%2FISG%20content%2FTerminate%20Liabilities.md) are already prepared.)
+    - None (Assume that all necessary documents from [[Audit current contracts and commitments]] and [[Terminate Liabilities]] are already prepared.)
 - **Costs:**
     - None
 - **Dependencies:**
-    - [Audit current contracts and commitments](obsidian://open?file=Portfolio%20website%2FISG%20content%2FAudit%20current%20contracts%20and%20commitments.md)
-    - [Terminate Liabilities](obsidian://open?file=Portfolio%20website%2FISG%20content%2FTerminate%20Liabilities.md)
+    - [[Audit current contracts and commitments]]
+    - [[Terminate Liabilities]]
 ## 4. Instructions
 
 _The step-by-step execution plan._

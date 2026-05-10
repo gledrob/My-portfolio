@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - guide/topic
   - status/draft
@@ -26,7 +26,7 @@ urgency: Low
 *What you need to have ready before starting.*
 
 - **Documents:**
-    - All necessary documents from [Prepare Supporting Documents](obsidian://open?file=Portfolio%20website%2FISG%20content%2FPrepare%20Supporting%20Documents.md) (Assume that all documents have already been prepared.)
+    - All necessary documents from [[Prepare Supporting Documents]] (Assume that all documents have already been prepared.)
 - **Costs:** 
 	- Print costs
 	- Cloud/Digital Storage provider costs

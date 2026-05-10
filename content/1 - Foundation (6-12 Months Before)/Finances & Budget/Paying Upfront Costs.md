@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - guide/topic
   - status/draft
@@ -22,7 +22,7 @@ urgency: Medium
 *What you need to have ready before starting.*
 
 - None
-- **Dependencies:** [Prepare Core Documents](obsidian://open?file=Portfolio%20website%2FISG%20content%2FPrepare%20Core%20Documents.md) (Having a clear financial plan is crucial for determining the necessary upfront costs.)
+- **Dependencies:** [[Prepare Core Documents]] (Having a clear financial plan is crucial for determining the necessary upfront costs.)
 
 ## 4. Instructions 
 *The step-by-step execution plan.*

@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - guide/topic
   - status/draft
@@ -34,7 +34,7 @@ urgency: Low
 - **Costs:**
     - None
 - **Dependencies:** (What specific task must be completed _before_ this one?)
-    - Establishing a clear relocation strategy [International Student Relocation Framework v1.1](obsidian://open?file=Portfolio%20website%2FISG%20content%2FInternational%20Student%20Relocation%20Framework%20v1.1.md).
+    - Establishing a clear relocation strategy [[International Student Relocation Framework v1.1]].
 
 ## 4. Instructions 
 *The step-by-step execution plan.*

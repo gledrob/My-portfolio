@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - guide/topic
   - status/draft
@@ -29,7 +29,7 @@ urgency: Low
 	- None
 - **Costs:** 
 	- None
-- **Dependencies:** [Source of Funds and Budget](obsidian://open?file=Portfolio%20website%2FISG%20content%2FSource%20of%20Funds%20and%20Budget.md) (Having a clear understanding of your financial situation will help determine the type and cost of accommodation.)
+- **Dependencies:** [[Source of Funds and Budget]] (Having a clear understanding of your financial situation will help determine the type and cost of accommodation.)
 
 ## 4. Instructions 
 *The step-by-step execution plan.*

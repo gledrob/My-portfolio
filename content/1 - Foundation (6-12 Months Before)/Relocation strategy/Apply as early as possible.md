@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - guide/topic
   - status/draft
@@ -23,11 +23,11 @@ urgency: High
 _What you need to have ready before starting._
 
 - **Documents:**
-    - [ ] [Prepare Supporting Documents](obsidian://open?file=Portfolio%20website%2FISG%20content%2FPrepare%20Supporting%20Documents.md) (e.g., Passport, Birth certificate)
-    - [ ] [Prepare Core Documents](obsidian://open?file=Portfolio%20website%2FISG%20content%2FPrepare%20Core%20Documents.md) (e.g., University Letter, Statement of Purpose)
+    - [ ] [[Prepare Supporting Documents]] (e.g., Passport, Birth certificate)
+    - [ ] [[Prepare Core Documents]] (e.g., University Letter, Statement of Purpose)
 - **Costs:** Estimated fees for the application process (if any).
 - **Dependencies:**
-    - [Define Your Goal](obsidian://open?file=Portfolio%20website%2FISG%20content%2FDefine%20Your%20Goal.md) and [Specifics of your moving process](obsidian://open?file=Portfolio%20website%2FISG%20content%2FSpecifics%20of%20your%20moving%20process.md) to determine relocation procedures and requirements.
+    - [[Define Your Goal]] and [[Specifics of your moving process]] to determine relocation procedures and requirements.
 
 ## 4. Instructions 
 _The step-by-step execution plan._

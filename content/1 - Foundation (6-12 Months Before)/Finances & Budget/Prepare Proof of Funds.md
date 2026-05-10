@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - guide/topic
   - status/draft
@@ -29,7 +29,7 @@ urgency: High
     1. Passport
     2. University Letter
 - **Costs:** (Estimated fees may vary depending on the country, bank, or institution)
-- **Dependencies:** [Prepare Core Documents](obsidian://open?file=Portfolio%20website%2FISG%20content%2FPrepare%20Core%20Documents.md) (Having your primary documents in order will expedite the process of gathering proof of funds.)
+- **Dependencies:** [[Prepare Core Documents]] (Having your primary documents in order will expedite the process of gathering proof of funds.)
 
 ## 4. Instructions 
 *The step-by-step execution plan.*
