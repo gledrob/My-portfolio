@@ -48,5 +48,3 @@ _The step-by-step execution plan._
 > - **Mistake 1:**  Setting unrealistic or vague goals that are not specific, measurable, achievable, relevant, and time-bound (Romanticising).
 > - **Mistake 2:** Setting goals lacking a clear definition of success and reasoning behind it.
 > - **Mistake 3:** Failing to regularly review and update your goals as circumstances change during the relocation process.
-
-https://bluecardagency.com/poshagovyj-plan-pereezda-v-germaniyu-dlya-inostranczev/?utm_source=telegram_expat&utm_medium=social&utm_campaign=content&utm_content=post
